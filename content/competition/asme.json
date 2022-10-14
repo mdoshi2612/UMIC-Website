@@ -1,0 +1,47 @@
+[
+  {
+    "slug": 1,
+    "title": "ASME-SDC 2021",
+    "description": "The UMIC team from IIT Bombay participated and ranked 4th in the ASME Student Design Competition of 2021 out of over 25 participating teams.",
+    "pageLink": "competition/pages/asme-sdc-2021",
+    "imageLink": "competitions/asme-2021-1.jpeg",
+    "imageDescription": "",
+    "leftSided": false
+  },
+  {
+    "slug": 2,
+    "title": "ASME-SDC 2019",
+    "description": "We were crowned as the champions in the Asia-Pacific region. The problem statement asked the participating teams to build a robot that could pick-up 16 balls (with their size varying from a Table Tennis ball to a Basketball) placed on top of 20 cm high PVC pipes and place them in a 50cm * 50cm area without knocking the ball off its stand to the ground outside the above-described area within a short amount of time.",
+    "pageLink": "competition/pages/asme-sdc-2019",
+    "imageLink": "robots/deepu-2.jpg",
+    "imageDescription": "",
+    "leftSided": true
+  },
+  {
+    "slug": 3,
+    "title": "ASME-SDC 2017",
+    "description": "This year, we were crowned as the champions in the Asia-Pacific region as well as the World Champions. The problem statement asked the participating teams to build a multifunctional mobile robot that could perform the following five tasks: Sprint, Throw, Climb, Lift, and Hit",
+    "pageLink": "competition/pages/asme-sdc-2017",
+    "imageLink": "robots/sdc-2017-2.jpg",
+    "imageDescription": "",
+    "leftSided": false
+  },
+  {
+    "slug": 4,
+    "title": "ASME-SDC 2013",
+    "description": "The competition aimed to design a remotely-controlled, proof-of-concept vehicle for inspection purposes. The vehicle was capable of negotiating around obstacles, both in getting to the inspection points and in bringing the sensor back to the designated return area. The team from UMIC, IIT Bombay, were crowned as the champions in the Asia-Pacific region. We went on to participate in the world finals held at ASME's International Mechanical Engineering Congress and Exposition (IMECE) and secured the 2nd position.",
+    "pageLink": "competition/pages/asme-sdc-2013",
+    "imageLink": "robots/remote-inspection-vehicle.jpg",
+    "imageDescription": "",
+    "leftSided": true
+  },
+  {
+    "slug": 5,
+    "title": "ASME-SDC 2012",
+    "description": "The problem was known as the “Energy Relay”, which challenged students to apply the basic principles of alternative energy in the design of four self-propelled devices, three of which were capable of transferring energy to trigger motion in subsequent devices positioned on a 12-meter course. After being declared as the champions in the Asia-Pacific region, the team moved on to the world finals and secured 2nd position. ",
+    "pageLink": "competition/pages/asme-sdc-2012",
+    "imageLink": "robots/sdc-2012.jpg",
+    "imageDescription": "",
+    "leftSided": false
+  }
+]

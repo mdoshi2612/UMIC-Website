@@ -1,0 +1,29 @@
+[
+  {
+    "slug": 1,
+    "title": "IARC Mission 9 Simulation Challenge",
+    "description": "The International Aerial Robotics Competition, the longest-running aerial robotics competition in the world, is the kind of problem that has pushed us to the best of our capabilities and made us think in ways like never before, providing us with an international platform to display our aptitudes.",
+    "pageLink": "competition/pages/iarc-9",
+    "imageLink": "robots/iarc-9-1.jpeg",
+    "imageDescription": "",
+    "leftSided": false
+  },
+  {
+    "slug": 2,
+    "title": "IARC Mission 8",
+    "description": "The team AeRoVe of UMIC trailed the problem statements of the IARC, the world’s premier and longest-running aerial robotics challenge, for the past two years and is consistently working and aiming to compete in the next edition. The primary purpose of the International Aerial Robotics Competition (IARC) has been to “move the state-of-the-art in aerial robotics forward” through the creation of significant and useful mission challenges that are ‘impossible’ at the time they are proposed, with the idea that when the aerial robotic behaviours called for in the mission are eventually demonstrated, the technology will have advanced to benefit the world.",
+    "pageLink": "competition/pages/iarc-8",
+    "imageLink": "robots/iarc-8.jpg",
+    "imageDescription": "",
+    "leftSided": true
+  },
+  {
+    "slug": 3,
+    "title": "Barcelona Smart Drone Challenge",
+    "description": "BSDC 2020 engages undergraduate teams throughout the globe in designing, constructing, developing and demonstrating an autonomous unmanned aircraft system. It is capable of performing a series of tasks which include area search, waypoint navigation, capturing data and photographs of the area, dropping payloads at certain places on the ground, performing manoeuvres like touch-and-go, and finally return to the base through a defined route. With a Maximum Take-off Mass (MTOM) of under 7 kg, and operating within Visual Line of Sight (VLOS), the unmanned aircraft is visioned to be used in case of natural calamities.",
+    "pageLink": "competition/pages/barca-drone",
+    "imageLink": "robots/parachute-test-1.jpg",
+    "imageDescription": "",
+    "leftSided": false
+  }
+]

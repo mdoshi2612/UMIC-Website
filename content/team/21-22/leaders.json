@@ -1,0 +1,115 @@
+[{
+        "department": "Aerospace Engineering",
+        "image": "team/members-21-22/mridul-agarwal.jpg",
+        "interest": "<Same as before>",
+        "links": {
+            "email": "mridul407@gmail.com",
+            "fb": "https://www.facebook.com/mridul.agarwal.752",
+            "linkedin": "https://www.linkedin.com/in/mridul-a-54b88111a/"
+        },
+        "name": "Aanal Sonara",
+        "phone": "8320107734",
+        "position": "Overall Coordinator",
+        "rollNumber": "180010034",
+        "subsystem": "Controls and Motion Planning",
+        "teamName": "AeRoVe",
+        "slug": 1,
+        "rank": 1,
+        "visible": true
+    },
+    {
+        "department": "Mechanical Engineering",
+        "image": "team/members-21-22/keerthan.jpg",
+        "interest": "Robotics and autonomous systems. Also love to play football, read books, traveling and a foodie",
+        "links": {
+            "email": "keerthanr2000@gmail.com ",
+            "fb": "https://www.facebook.com/keerthan.ramesh/",
+            "linkedin": "https://www.linkedin.com/in/keerthan-ramesh-446950174/"
+        },
+        "name": "Keerthan Ramesh",
+        "phone": "8149188382",
+        "position": "Overall Coordinator",
+        "rollNumber": "180100058",
+        "subsystem": "Localisation",
+        "teamName": "SeDriCa",
+        "slug": 2,
+        "rank": 1,
+        "visible": true
+    },
+    {
+        "department": "Mechanical Engineering",
+        "image": "team/members-21-22/amandron.jpg",
+        "interest": "Interested in Aerial Robotics | FPV Freestyle Pilot | Art & Music",
+        "links": {
+            "email": "amanmalekar21@gmail.com",
+            "fb": "https://www.facebook.com/aman.malekar.98",
+            "linkedin": "https://www.linkedin.com/in/aman-malekar/"
+        },
+        "name": "Aman Malekar ",
+        "phone": "7972780001",
+        "position": "Senior Manager",
+        "rollNumber": "180100012",
+        "subsystem": "Mechatronics",
+        "teamName": "AeRoVe",
+        "slug": 3,
+        "rank": 2,
+        "visible": true
+    },
+    {
+        "department": "Aerospace Engineering",
+        "image": "team/members-21-22/ronit-shukla.jpg",
+        "interest": "Aeromodelling | Turbomachines | Art & Music | Dancing | Gaming | Digital Design & Editing",
+        "links": {
+            "email": "ronitrshukla37@gmail.com",
+            "fb": "https://www.facebook.com/Ronnie.Shukla77/",
+            "linkedin": "https://www.linkedin.com/in/ronit-shukla-9a2b25186/"
+        },
+        "name": "Ronit Shukla",
+        "phone": "9923163770",
+        "position": "Team Leader",
+        "rollNumber": "180010050",
+        "subsystem": "Controls",
+        "teamName": "AeRoVe",
+        "slug": 4,
+        "rank": 2,
+        "visible": true
+    },
+    {
+        "department": "Mechanical Engineering",
+        "image": "team/members-21-22/gagan-jain.jpg",
+        "interest": "Autonomous Systems | Sketching | Music | Movies | Food",
+        "links": {
+            "email": "gaganjain1582@gmail.com",
+            "fb": "https://www.facebook.com/gaganjain1582",
+            "linkedin": "https://www.linkedin.com/in/gaganjain15/"
+        },
+        "name": "Gagan Jain",
+        "phone": "9407488831",
+        "position": "Team Leader",
+        "rollNumber": "180100043",
+        "subsystem": "Controls, Perception",
+        "teamName": "SeDriCa",
+        "slug": 5,
+        "rank": 2,
+        "visible": true
+    },
+    {
+        "department": "Civil Engineering",
+        "image": "team/members-21-22/dikshant-shehmar.jpg",
+        "interest": "I am mostly interested in football and music apart from technical stuff.",
+        "links": {
+            "email": "dikshant1212hsr@gmail.com",
+            "fb": "https://www.facebook.com/dikshant.shehmar",
+            "linkedin": "https://www.linkedin.com/in/dikshant-shehmar-a95956174"
+        },
+        "name": "Dikshant",
+        "phone": "9306348233",
+        "position": "Senior manager",
+        "rollNumber": "180040033",
+        "subsystem": "Controls",
+        "teamName": "SeDriCa",
+        "slug": 6,
+        "rank": 2,
+        "visible": true
+    }
+]

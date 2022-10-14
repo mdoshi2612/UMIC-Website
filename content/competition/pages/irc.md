@@ -1,0 +1,7 @@
+## International Robotics Competition
+
+<div class="image-1">
+<content-image src="robots/irc.jpeg" alt="Beast"></content-image>
+</div>
+
+We participated in the 120lbs(55 kg) category for this competition. This particular bot was built with robustness as our prime focus. This fact is reflected in the custom-designed hybrid aluminium and mild steel chassis which was made to balance the weight and toughness of the bot. Equipped with superior defence, the weapon of choice in this bot was a rotating drum having an advancing flight to attack the opponents. This rotating drum weighed around 35kgs and rotated at around 3000RPM. Inertia developed by this drum is enough to obliterate literally anything in its way! A novelty in this bot design was its bi-symmetrical design, which meant toppling won’t have any effect on this bot. Another novelty involved with the design was its minimal ground clearance which meant opponents with wedges as their weapon couldn’t get under our bot to jam us in any way. The major challenge in this build was to protect the electrical connections, circuit components and batteries from external impacts. This bot was remotely controlled and a mesh of aluminium insides used to restrict play in electrical components and sustain any external impact or shock experienced by the bot. As the name suggests, indeed it was a ‘BEAST’ in its entirety, with sturdy insides, equipped with a lethal weapon plus a superior defence.

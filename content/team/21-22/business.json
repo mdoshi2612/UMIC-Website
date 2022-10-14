@@ -1,0 +1,192 @@
+[
+  {
+    "department": "Metallurgical Engineering",
+    "image": "team/members-21-22/adithyan-rajesh.jpg",
+    "interest": "Robotics | Movies | Series | Sports | Gaming | Video-Editing | Travel",
+    "links": {
+      "email": "adithyan221b@gmail.com",
+      "fb": "https://www.facebook.com/profile.php?id=100005655826269",
+      "linkedin": "https://www.linkedin.com/in/adithyan-rajesh-318944211/"
+    },
+    "name": "Adithyan Rajesh",
+    "phone": "7594914053",
+    "position": "Graphic Designer Engineer",
+    "rollNumber": "200110006",
+    "subsystem": "Creatives",
+    "teamName": "Business Team",
+    "slug": 1,
+    "rank": 2,
+    "visible": true
+  },
+  {
+    "department": "",
+    "image": "team/user.jpg",
+    "interest": "",
+    "links": {
+      "email": "aniketambatkar5@gmail.com",
+      "fb": "",
+      "linkedin": ""
+    },
+    "name": "Aniket",
+    "phone": "9588440559",
+    "position": "Video Editor",
+    "rollNumber": "190020011",
+    "subsystem": "Creatives",
+    "teamName": "Business Team",
+    "slug": 2,
+    "rank": 3,
+    "visible": false
+  },
+  {
+    "department": "",
+    "image": "team/user.jpg",
+    "interest": "",
+    "links": {
+      "email": "chinmaykyshende@gmail.com",
+      "fb": "",
+      "linkedin": ""
+    },
+    "name": "Chinmay Shende",
+    "phone": "9595918598",
+    "position": "Video Editor",
+    "rollNumber": "190110086",
+    "subsystem": "Creatives",
+    "teamName": "Business Team",
+    "slug": 3,
+    "rank": 3,
+    "visible": false
+  },
+  {
+    "department": "ESED",
+    "image": "team/members-21-22/manasi-pawar.jpg",
+    "interest": "Reading, cycling",
+    "links": {
+      "email": "manasivpawar@gmail.com",
+      "fb": "https://www.facebook.com/manasi.pawar.56211/",
+      "linkedin": "https://www.linkedin.com/in/manasi-pawar-4b24741bb/"
+    },
+    "name": "Manasi Pawar",
+    "phone": "8378997899",
+    "position": "PR and Media member",
+    "rollNumber": "20D180019",
+    "subsystem": "PR and Media",
+    "teamName": "Business Team",
+    "slug": 4,
+    "rank": 2,
+    "visible": true
+  },
+  {
+    "department": "ESED",
+    "image": "team/members-21-22/naman-agarwal.jpg",
+    "interest": "Good question",
+    "links": {
+      "email": "nagarwal1510@gmail.com",
+      "fb": "https://www.facebook.com/naman.agarwal.9674",
+      "linkedin": "https://www.linkedin.com/in/naman-agarwal-74a44a190"
+    },
+    "name": "Naman Agarwal",
+    "phone": "9557077590",
+    "position": "Business Head",
+    "rollNumber": "19D180017",
+    "subsystem": "Business Head",
+    "teamName": "Business Team",
+    "slug": 5,
+    "rank": 1,
+    "visible": true
+  },
+  {
+    "department": "Metallurgical Engineering",
+    "image": "team/members-21-22/nandisha-vyas.jpg",
+    "interest": "NA",
+    "links": {
+      "email": "nandishavyas11@gmail.com",
+      "fb": "https://www.facebook.com/nandisha.vyas.1",
+      "linkedin": "https://www.linkedin.com"
+    },
+    "name": "Nandisha Vyas",
+    "phone": "9782292445",
+    "position": "Graphic Designer Engineer",
+    "rollNumber": "200110072",
+    "subsystem": "Design Team",
+    "teamName": "Business Team",
+    "slug": 6,
+    "rank": 2,
+    "visible": true
+  },
+  {
+    "department": "Electrical Engineering",
+    "image": "team/members-21-22/shubham-ojha.jpg",
+    "interest": "Loves anime, coding new applications, and Assassins Creed",
+    "links": {
+      "email": "shubhamojha18@gmail.com",
+      "fb": "https://www.facebook.com/shubham.ojha.90/",
+      "linkedin": "https://www.linkedin.com/in/shubham-ojha-80b52a1a9/"
+    },
+    "name": "Shubham Ojha",
+    "phone": "7901972755",
+    "position": "Web Team Member",
+    "rollNumber": "19D070056",
+    "subsystem": "Web Development",
+    "teamName": "Business Team",
+    "slug": 7,
+    "rank": 2,
+    "visible": true
+  },
+  {
+    "department": "Chemical Engineering",
+    "image": "team/members-21-22/nirav-gameti.jpg",
+    "interest": "Love playing sports, cricket, basketball, table-tennis, freesbi. Love hiking and sometimes reading:)",
+    "links": {
+      "email": "niravg68@gmail.com",
+      "fb": "https://www.facebook.com/profile.php?id=100010743817037",
+      "linkedin": "https://www.linkedin.com/in/nirav-gameti-244165132/"
+    },
+    "name": "Nirav Gameti",
+    "phone": "9726352982",
+    "position": "Web Team Member",
+    "rollNumber": "213020032",
+    "subsystem": "Web Development",
+    "teamName": "Business Team",
+    "slug": 8,
+    "rank": 2,
+    "visible": false
+  },
+  {
+    "department": "Civil Engineering",
+    "image": "team/members-21-22/varun-shenoy.jpg",
+    "interest": "Play Chess, Football, read books sometimes, play Guitar(not well tho😓)",
+    "links": {
+      "email": "varun7shenoy@gmail.com",
+      "fb": "https://www.facebook.com/varun.shenoy.545",
+      "linkedin": "https://www.linkedin.com/in/varun-shenoy-b43106214"
+    },
+    "name": "Varun Shenoy",
+    "phone": "8591088632",
+    "position": "Graphic Designer Engineer",
+    "rollNumber": "200040134",
+    "subsystem": "Design Team",
+    "teamName": "Business Team",
+    "slug": 9,
+    "rank": 2,
+    "visible": true
+  },
+  {
+    "department": "Chemical Engineering",
+    "image": "team/user.jpg",
+    "interest": "",
+    "links": {
+      "email": "",
+      "fb": "",
+      "linkedin": ""
+    },
+    "name": "Ananya Dhale",
+    "phone": "7756870498",
+    "position": "PR and Media Member",
+    "rollNumber": "",
+    "subsystem": "PR and Media",
+    "teamName": "Business Team",
+    "slug": 10,
+    "rank": 5,
+    "visible": true
+  }
+]

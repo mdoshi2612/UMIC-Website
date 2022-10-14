@@ -1,0 +1,990 @@
+[
+  {
+    "department": "Electrical Engineering",
+    "image": "team/members-21-22/yash-bhavsar.jpg",
+    "interest": "ML, CV, Signal Processing | Music's my saviour, Loves to play and watch Cricket",
+    "links": {
+      "email": "yashbhavsar1205@gmail.com",
+      "fb": "https://www.facebook.com/yash.bhavsar.3576",
+      "linkedin": "https://www.linkedin.com/in/yash-bhavsar-11a0881a9"
+    },
+    "name": "Yash Bhavsar",
+    "phone": "8741856292",
+    "position": "Sr. Machine Learning Engineer",
+    "rollNumber": "180070067",
+    "subsystem": "Machine Learning",
+    "teamName": "AeRoVe",
+    "slug": 1,
+    "rank": 4,
+    "visible": true
+  },
+  {
+    "department": "Mechanical Engineering",
+    "image": "team/members-21-22/vijayant-patel.jpg",
+    "interest": "Likes making unusual mechanical designs. Love probability and logical reasoning. Sportive.",
+    "links": {
+      "email": "180100078@iitb.ac.in",
+      "fb": "https://www.facebook.com/vijayant.patel.5",
+      "linkedin": "https://www.linkedin.com/in/vijayantmonu-patel-4981401b3"
+    },
+    "name": "Patel Vijayantmonu Narendrakumar",
+    "position": "Mechatronics Advisor",
+    "phone": "9974568531",
+    "rollNumber": "180100078",
+    "subsystem": "Mechatronics",
+    "teamName": "AeRoVe",
+    "slug": 2,
+    "rank": 4,
+    "visible": true
+  },
+  {
+    "department": "Mechanical Engineering",
+    "image": "team/members-21-22/kratik-bhadoriya.jpg",
+    "interest": "Mechatronics, FEM, CFD, System design; Football, Chess, Food, Fitness, Gaming, Photography",
+    "links": {
+      "email": "kratikbhadoriya2001@gmail.com",
+      "fb": "https://www.facebook.com/kratik.bhadoriya",
+      "linkedin": "https://www.linkedin.com/in/kratik-bhadoriya-a280481b3"
+    },
+    "name": "Kratik Bhadoriya",
+    "phone": "9833476996",
+    "position": "Finance Manager",
+    "rollNumber": "180100059",
+    "subsystem": "Mechatronics",
+    "teamName": "AeRoVe",
+    "slug": 3,
+    "rank": 3,
+    "visible": true
+  },
+  {
+    "department": "Mechanical Engineering",
+    "image": "team/members-21-22/rishab-khantwal.jpg",
+    "interest": "Computer vision is love❣️ | Work - Exploitation > Exploration | Life - Exploration < Exploitation",
+    "links": {
+      "email": "rishabkhantwal11@gmail.com",
+      "fb": "https://www.facebook.com/profile.php?id=1000086657460639",
+      "linkedin": "https://www.linkedin.com/in/rishab-khantwal-2061ab191/"
+    },
+    "name": "Rishab Khantwal",
+    "phone": "7389121413",
+    "position": "Machine Learning Advisor",
+    "rollNumber": "180100095",
+    "subsystem": "ML and Perception",
+    "teamName": "AeRoVe",
+    "slug": 4,
+    "rank": 2,
+    "visible": true
+  },
+  {
+    "department": "Mechanical Engineering",
+    "image": "team/members-21-22/rohit-rushil.jpg",
+    "interest": "I enjoy playing games, listening to music, eating, reading articles on tech and solving Puzzles. My interests in tech lies in the field of Autonomous Systems, I was always puzzled by the question - How do Robots 'see' the world? - Hence I developed my curiosity in the field of perception.",
+    "links": {
+      "email": "thesmilingsky1530@gmail.com",
+      "fb": "https://www.facebook.com/rohit.rushil.9",
+      "linkedin": "https://www.linkedin.com/in/rohit-rushil-15294a19b/"
+    },
+    "name": "Alluri Rohit Rushil",
+    "phone": "9398113903",
+    "position": "Sr. Computer Vision Engineer",
+    "rollNumber": "180100010",
+    "subsystem": "Computer Vision",
+    "teamName": "SeDriCa",
+    "slug": 5,
+    "rank": 4,
+    "visible": true
+  },
+  {
+    "department": "",
+    "image": "team/user.jpg",
+    "interest": "",
+    "links": {
+      "email": "pranavkdas12@gmail.com",
+      "fb": "",
+      "linkedin": ""
+    },
+    "name": "Pranav K Das",
+    "phone": "9747991090",
+    "position": "Localization Subsystem Head",
+    "rollNumber": "180010043",
+    "subsystem": "Localization",
+    "teamName": "SeDriCa",
+    "slug": 6,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "",
+    "image": "team/members-21-22/janak-ruia.jpg",
+    "interest": "Apart from applied math and autonomous systems, I like to make 3D animations and read books.",
+    "links": {
+      "email": "ruiajanak@gmail.com",
+      "fb": "https://www.facebook.com/profile.php?id=100010279213026",
+      "linkedin": "https://www.linkedin.com/in/janak-ruia-11628b199/"
+    },
+    "name": "Ruia Janak Deepak",
+    "phone": "9819462993",
+    "position": "Localization Subsystem Head",
+    "rollNumber": "190260038",
+    "subsystem": "Localization",
+    "teamName": "SeDriCa",
+    "slug": 7,
+    "rank": 2,
+    "visible": false
+  },
+  {
+    "department": "Metallurgical Engineering and Materials Science",
+    "image": "team/members-21-22/riya-agrawal.jpg",
+    "interest": "Travel buff with diversified interests in tech, food and unplanned adventures ",
+    "links": {
+      "email": "agrawalria2001@gmail.com",
+      "fb": "https://www.facebook.com/profile.php?id=100039850905970",
+      "linkedin": "https://www.linkedin.com/in/riya-agrawal-8273a1209/"
+    },
+    "name": "Riya Agrawal",
+    "phone": "9352160716",
+    "position": "Team Manager",
+    "rollNumber": "19D110015",
+    "subsystem": "Localization",
+    "teamName": "SeDriCa",
+    "slug": 8,
+    "rank": 3,
+    "visible": false
+  },
+  {
+    "department": "Mechanical Engineering",
+    "image": "team/members-21-22/hitvarth-diwanji.jpg",
+    "interest": "Passionate about Deep Learning, Computer Vision, Theoretical Machine Learning, Autonomous Stuff",
+    "links": {
+      "email": "hitvarthdiwanji@gmail.com",
+      "fb": "https://www.facebook.com/hitvarth.diwanji ",
+      "linkedin": "https://www.linkedin.com/in/hitvarth-diwanji-1b1b6819a/"
+    },
+    "name": "Hitvarth Diwanji",
+    "phone": "9925148532",
+    "position": "Motion Planning Subsystem Head",
+    "rollNumber": "190100057",
+    "subsystem": "Motion Planning, Decision Making",
+    "teamName": "SeDriCa",
+    "slug": 9,
+    "rank": 2,
+    "visible": true
+  },
+  {
+    "department": "Engineering Physics",
+    "image": "team/members-21-22/akash-verma.jpg",
+    "interest": "My major interest lies in autonomous systems and robotics. Plus I'm a big chess nerd",
+    "links": {
+      "email": "190260005@iitb.ac.in",
+      "fb": "https://m.facebook.com/100005165255428/",
+      "linkedin": "https://www.linkedin.com/mwlite/in/akash-verma-64851b194"
+    },
+    "name": "Akash Verma",
+    "position": "Team Manager",
+    "phone": "7006294123",
+    "rollNumber": "190260005",
+    "subsystem": "Motion Planning",
+    "teamName": "SeDriCa",
+    "slug": 10,
+    "rank": 3,
+    "visible": true
+  },
+  {
+    "department": "Engineering Physics",
+    "image": "team/members-21-22/khade-shourish-shashank.jpg",
+    "interest": "Hello! I'm a third year undergrad from Mumbai. I enjoy Physics and am a sports enthusiast",
+    "links": {
+      "email": "shourishskhade@gmail.com",
+      "fb": "https://www.facebook.com/profile.php?id=100005002892621",
+      "linkedin": "https://www.linkedin.com/in/shourish-khade-07b517193"
+    },
+    "name": "Khade Shourish Shashank",
+    "phone": "9820349989",
+    "position": "Sr. Motion Planning Engineer",
+    "rollNumber": "190260026",
+    "subsystem": "Motion Planning",
+    "teamName": "SeDriCa",
+    "slug": 11,
+    "rank": 4,
+    "visible": true
+  },
+  {
+    "department": "",
+    "image": "team/members-21-22/madhumitha-s.jpg",
+    "interest": "Interested in AI & automation. Love exploring; passionate about music, dance & board games",
+    "links": {
+      "email": "madhumitha.s@yahoo.com",
+      "fb": "https://www.facebook.com/madhu.mitha.547727",
+      "linkedin": "https://www.linkedin.com/in/madhumitha-s-248358218/"
+    },
+    "name": "Madhumitha S",
+    "phone": "9769030693",
+    "position": "Sr. Controls Engineer",
+    "rollNumber": "19D170013",
+    "subsystem": "Controls",
+    "teamName": "AeRoVe",
+    "slug": 12,
+    "rank": 4,
+    "visible": true
+  },
+  {
+    "department": "Mechanical Engineering",
+    "image": "team/members-21-22/atharva-diwan.jpg",
+    "interest": "Computer Vision, Robotics and autonomous systems. Love to play piano and read books",
+    "links": {
+      "email": "diwanatharva@gmail.com",
+      "fb": "https://www.facebook.com/atharva.diwan.313",
+      "linkedin": "https://www.linkedin.com/in/atharva-diwan-03ab38194/"
+    },
+    "name": "Atharva Diwan",
+    "phone": "9424401803",
+    "position": "Computer Vision Subsystem Head",
+    "rollNumber": "190100028",
+    "subsystem": "Computer Vision",
+    "teamName": "SeDriCa",
+    "slug": 13,
+    "rank": 2,
+    "visible": true
+  },
+  {
+    "department": "Civil Engineering",
+    "image": "team/members-21-22/bhuvan-aggarwal.jpg",
+    "interest": "ML, full stack development, graphics. A big time foodie, loves badminton and music.",
+    "links": {
+      "email": "bhuvanaggarwal9@gmail.com",
+      "fb": "https://www.facebook.com/",
+      "linkedin": "https://www.linkedin.com/in/bhuvan-aggarwal-77b1b4191/"
+    },
+    "name": "Bhuvan Aggarwal",
+    "phone": "9878960462",
+    "position": "Team Manager",
+    "rollNumber": "190040026",
+    "subsystem": "Decision Making",
+    "teamName": "SeDriCa",
+    "slug": 14,
+    "rank": 3,
+    "visible": true
+  },
+  {
+    "department": "Chemical Engineering",
+    "image": "team/members-21-22/omkar-ghugarkar.jpg",
+    "interest": "I am from Pune. I am into ML with interest in Computer vision. I am also a huge fan of Cricket.",
+    "links": {
+      "email": "omkarghugarkar7@gmail.com",
+      "fb": "https://www.facebook.com/omkarghugarkar7",
+      "linkedin": "https://www.linkedin.com/in/omkar-ghugarkar-94b897194/"
+    },
+    "name": "Ghugarkar Omkar Uttam",
+    "phone": "8446539938",
+    "position": "Sr. Computer Vision Engineer",
+    "rollNumber": "190020044",
+    "subsystem": "Computer Vision",
+    "teamName": "SeDriCa",
+    "slug": 15,
+    "rank": 4,
+    "visible": true
+  },
+  {
+    "department": "Mechanical Engineering ",
+    "image": "team/user.jpg",
+    "interest": "",
+    "links": {
+      "email": "tejalbarnwal@gmail.com",
+      "fb": "https://www.facebook.com/tejal.barnwal/",
+      "linkedin": "https://www.linkedin.com/in/tejal-ashwini-barnwal-1a149389/"
+    },
+    "name": "Tejal Ashwini Barnwal",
+    "phone": "9930712164",
+    "position": "Sr. Decision Making Engineer",
+    "rollNumber": "190020122",
+    "subsystem": "Decision Making",
+    "teamName": "SeDriCa",
+    "slug": 16,
+    "rank": 4,
+    "visible": true
+  },
+  {
+    "department": "",
+    "image": "team/members-21-22/nageswar-sai-gangadhar.jpg",
+    "interest": "Autonomous and AI systems. Web surfer, Sheldon Cooper fan, foodie",
+    "links": {
+      "email": "saigangadhar.n@gmail.com",
+      "fb": "https://www.facebook.com/saigangadhar.n/",
+      "linkedin": "https://www.linkedin.com/in/nageswar-sai-gangadhar-599499194/"
+    },
+    "name": "Nageswar Venkata Sai Gangadhar",
+    "phone": "8639943317",
+    "position": "Sr. Controls Engineer",
+    "rollNumber": "190100080",
+    "subsystem": "Controls",
+    "teamName": "SeDriCa",
+    "slug": 17,
+    "rank": 4,
+    "visible": false
+  },
+  {
+    "department": "Mechanical Engineering",
+    "image": "team/members-21-22/shubham-gupta.jpg",
+    "interest": "Interested in AI and robotics along with love for music and anime ;p",
+    "links": {
+      "email": "shubhamg.iitbombay@gmail.com",
+      "fb": "https://www.facebook.com/intrismic101/",
+      "linkedin": "https://www.linkedin.com/in/shubham-gupta-a48069170/"
+    },
+    "name": "Shubham Gupta",
+    "phone": "9757180175",
+    "position": "Sr. Controls Engineer",
+    "rollNumber": "190020107",
+    "subsystem": "Controls",
+    "teamName": "SeDriCa",
+    "slug": 18,
+    "rank": 4,
+    "visible": true
+  },
+  {
+    "department": "Aerospace Engineering",
+    "image": "team/members-21-22/shubham-sharma.jpg",
+    "interest": "A 20yo fully functional human being with a healthy obsession with anime and an unhealthy one with chess. I also like rockets, robots, oceans, mythologies, paintings and grass.",
+    "links": {
+      "email": "shubh.am.sharma11kt@gmail.com",
+      "fb": "https://www.facebook.com/intrismic101/",
+      "linkedin": "https://www.linkedin.com/in/shubh-am-sharma"
+    },
+    "name": "Shubham Sharma ",
+    "phone": "9084083123",
+    "position": "Sr. Path Planning Engineer",
+    "rollNumber": "190010065",
+    "subsystem": "Path planning",
+    "teamName": "AeRoVe",
+    "slug": 19,
+    "rank": 4,
+    "visible": true
+  },
+  {
+    "department": "Aerospace Engineering",
+    "image": "team/members-21-22/harshil-naik.jpg",
+    "interest": "Drones, Pottery, Formula 1, Knitting, Stories, Food, Mountains",
+    "links": {
+      "email": "harshil3004@gmail.com",
+      "fb": "https://www.facebook.com/",
+      "linkedin": "http://linkedin.com/in/harshilnaikk"
+    },
+    "name": "Harshil Naik ",
+    "phone": "9429539950",
+    "position": "Team Manager and Path Planning Subsystem Head",
+    "rollNumber": "190010030",
+    "subsystem": "Motion Planning",
+    "teamName": "AeRoVe",
+    "slug": 20,
+    "rank": 2,
+    "visible": true
+  },
+  {
+    "department": "Aerospace Engineering",
+    "image": "team/members-21-22/atharva-mete.jpg",
+    "interest": "Autonomous UAVs, AI-driven systems & Robotics. Swimming, sketching, and culinary arts.",
+    "links": {
+      "email": "atharvamete12@gmail.com",
+      "fb": "https://www.facebook.com/atharva.mete/",
+      "linkedin": "https://www.linkedin.com/in/atharva-mete"
+    },
+    "name": "Atharva Mete ",
+    "phone": "9527540872",
+    "position": "Control Subsystem Head",
+    "rollNumber": "190010012",
+    "subsystem": "Controls",
+    "teamName": "AeRoVe",
+    "slug": 21,
+    "rank": 2,
+    "visible": true
+  },
+  {
+    "department": "Aerospace engineering",
+    "image": "team/members-21-22/meghna-dixit.jpg",
+    "interest": "Astrophysics, Traveling, Sketching, Painting, Reading, UAVs, watching Movies and Photography",
+    "links": {
+      "email": "meghnadixit38@gmail.com",
+      "fb": "https://www.facebook.com/meghnadixit38",
+      "linkedin": "https://www.linkedin.com/in/meghna-dixit-95a8b0194"
+    },
+    "name": "Meghna Dixit",
+    "phone": "9581355562",
+    "position": "Team Manager and Sr. Controls Engineer",
+    "rollNumber": "190010045",
+    "subsystem": "Controls",
+    "teamName": "AeRoVe",
+    "slug": 22,
+    "rank": 3,
+    "visible": true
+  },
+  {
+    "department": "Computer Science and Engineering",
+    "image": "team/members-21-22/amit-kumar-mallik.jpg",
+    "interest": "Combinatorics, Graph Theory, Algorithms, Machine Learning",
+    "links": {
+      "email": "amit.km287@gmail.com",
+      "fb": "https://www.facebook.com/amitkumar.mallik.33",
+      "linkedin": "https://www.linkedin.com/in/amit-kumar-84a9601aa/"
+    },
+    "name": "Amit Kumar Malik ",
+    "phone": "6301897318",
+    "position": "Machine Learning Subsystem Head",
+    "rollNumber": "19D070007",
+    "subsystem": "Machine Learning",
+    "teamName": "AeRoVe",
+    "slug": 23,
+    "rank": 2,
+    "visible": true
+  },
+  {
+    "department": "Electrical Engineering",
+    "image": "team/members-21-22/aanal-sonara.jpg",
+    "interest": "I am interested in Computer Vision, Machine Learning and Robotics. I love music and anime.",
+    "links": {
+      "email": "aanalsonara@gmail.com",
+      "fb": "facebook.com/aanal.sonara",
+      "linkedin": "https://www.linkedin.com/in/aanal-sonara/"
+    },
+    "name": "Aanal Sonara",
+    "phone": "9136540029",
+    "position": "Localisation Subsystem Head",
+    "rollNumber": "190070064",
+    "subsystem": "Localization",
+    "teamName": "AeRoVe",
+    "slug": 24,
+    "rank": 2,
+    "visible": true
+  },
+  {
+    "department": "Electrical Engineering",
+    "image": "team/members-21-22/psweeya-goud.jpg",
+    "interest": "Interested in solving real world problems with the help of latest technology, localisation techniques , drones",
+    "links": {
+      "email": "psweeyagoud@gmail.com",
+      "fb": "https://www.facebook.com/panyamsweeya.goud.98",
+      "linkedin": "https://www.linkedin.com/"
+    },
+    "name": "Panyam Sweeya Goud",
+    "phone": "9307507365",
+    "position": "Sr. Localisation Engineer",
+    "rollNumber": "19D070042",
+    "subsystem": "Localization",
+    "teamName": "AeRoVe",
+    "slug": 25,
+    "rank": 4,
+    "visible": false
+  },
+  {
+    "department": "",
+    "image": "team/members-21-22/hiya-gada.jpg",
+    "interest": "Drone designing and control systems. I love to make music, read and write. A Philomath.",
+    "links": {
+      "email": "hiyagada2001@gmail.com",
+      "fb": "https://www.facebook.com/hiya.gada/",
+      "linkedin": "https://www.linkedin.com/in/hiya-gada-154411192"
+    },
+    "name": "Hiya Gada",
+    "phone": "9167669722",
+    "position": "Sr. Controls Engineer",
+    "rollNumber": "19D100007",
+    "subsystem": "Controls",
+    "teamName": "AeRoVe",
+    "slug": 26,
+    "rank": 4,
+    "visible": false
+  },
+  {
+    "department": "Mechanical Engineering",
+    "image": "team/members-21-22/bishop-prakash.jpg",
+    "interest": "My interests lie both in core as well as some non-core fields. Mechanical Designing, Robotics, Automobiles, and Aerospace are some of my core favourites. On the non-core side I enjoy computer programing a lot, and I'm even a member of the Consultancy Club. I'm also a part of the student mentorship team, so you may reach out to me for legit anything. My hobbies include sketching, photography, and sports like martial arts, swimming & cricket.",
+    "links": {
+      "email": "prakashbishop7@gmail.com",
+      "fb": "https://www.facebook.com/bishop.prakash.7",
+      "linkedin": "https://www.linkedin.com/in/bishop-prakash"
+    },
+    "name": "Bishop Prakash ",
+    "phone": "7030158169",
+    "position": "Mechatronics Subsystem Head",
+    "rollNumber": "19D100005",
+    "subsystem": "Mechatronics",
+    "teamName": "AeRoVe",
+    "slug": 27,
+    "rank": 2,
+    "visible": true
+  },
+  {
+    "department": "Mechanical Engineering",
+    "image": "team/members-21-22/akshat-kumar-gupta.jpg",
+    "interest": "My technical areas of interest include path planning algorithms like A* and implementation using Python and C++, machine learning using TensorFlow, computer vision using openCV, web development using HTML, CSS, JavaScript and PHP. Other than tech, I am interested in finance and management. Currently learning about basics of stock market and corporate accounting. Pastimes include football, watching anime and gaming. ",
+    "links": {
+      "email": "200100017@iitb.ac.in",
+      "fb": "https://www.facebook.com/profile.php?id=100004294835008",
+      "linkedin": "https://www.linkedin.com/in/akshat-gupta-ba119b1ba"
+    },
+    "name": "Akshat Kumar Gupta",
+    "position": "Jr. Motion Planning Engineer",
+    "phone": "9892706554",
+    "rollNumber": "200100017",
+    "subsystem": "Motion Planning",
+    "teamName": "SeDriCa",
+    "slug": 28,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "Chemical Engineering",
+    "image": "team/members-21-22/sakaar-goel.jpg",
+    "interest": "I love to explore technologies of all kind and learn different softwares, programming languages and algorithms especially those related to autonomous vehicles.",
+    "links": {
+      "email": "sakaar.goel02@gmail.com",
+      "fb": "https://www.facebook.com/sakaar.goel/",
+      "linkedin": "https://www.linkedin.com/in/sakaar-goel-642208201/"
+    },
+    "name": "Sakaar Goel",
+    "phone": "8130060540",
+    "position": "Jr. Motion Planning Engineer",
+    "rollNumber": "200020114",
+    "subsystem": "Motion Planning",
+    "teamName": "SeDriCa",
+    "slug": 29,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "Metallurgical Engineering and Materials Science",
+    "image": "team/members-21-22/avinash-rajesh-gupta.jpg",
+    "interest": "CV,ML and Mechatronics enthusiast🤓 .Enjoy playing with data and statistics .Love >> badminton,football and extensive travelling ❤ .",
+    "links": {
+      "email": "20D110005@iitb.ac.in",
+      "fb": "https://www.linkedin.com/in/avinash-gupta-58a39a190",
+      "linkedin": "https://www.linkedin.com/in/avinash-gupta-58a39a190"
+    },
+    "name": "Avinash Rajesh Gupta",
+    "phone": "9372686625",
+    "position": "Jr. Computer Vision Engineer",
+    "rollNumber": "20D110005",
+    "subsystem": "Computer Vision",
+    "teamName": "SeDriCa",
+    "slug": 30,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "Mechanical Engineering",
+    "image": "team/members-21-22/rudraksh-kuchiya.jpg",
+    "interest": "Dynamics and Controls of AI driven vehicles. Mad about Photography. Love trekking and music.",
+    "links": {
+      "email": "rudrakshkuchiya@gmail.com",
+      "fb": "https://www.facebook.com/rudraksh.kuchiya.96/",
+      "linkedin": "www.linkedin.com/in/rudraksh-kuchiya"
+    },
+    "name": "Rudraksh Kuchiya",
+    "phone": "9826951787",
+    "position": "Jr. Controls Engineer",
+    "rollNumber": "20D110021",
+    "subsystem": "Localisation",
+    "teamName": "AeRoVe",
+    "slug": 31,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "Aerospace Engineering",
+    "image": "team/members-21-22/rihan-aaron-dsilva.jpg",
+    "interest": "Aerial Robotics, Spacecraft dynamics and Control. Into sports, music, movies/series and Piano",
+    "links": {
+      "email": "dslvaaron24@gmail.com",
+      "fb": "https://www.facebook.com/rihan.dsilva.1",
+      "linkedin": "linkedin.com/in/rihan-aaron-dsilva-7744691bb"
+    },
+    "name": "Rihan Aaron Dsilva",
+    "phone": "9480568073",
+    "position": "Jr. Controls Engineer",
+    "rollNumber": "200010061",
+    "subsystem": "Controls",
+    "teamName": "AeRoVe",
+    "slug": 32,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "Aerospace Engineering",
+    "image": "team/members-21-22/shambhu-kumar.jpg",
+    "interest": "drones, robotics, little bit of stargazing, writing poems (random), skateboarding with friends and tp.",
+    "links": {
+      "email": "shambhu2002may@gmail.com",
+      "fb": "https://m.facebook.com/100056756243754/",
+      "linkedin": "https://www.linkedin.com/in/shambhu-k-12a375134"
+    },
+    "name": "Shambhu Kumar",
+    "phone": "8935958085",
+    "position": "Jr. Mechatronics Engineer",
+    "rollNumber": "200010072",
+    "subsystem": "Mechatronics",
+    "teamName": "AeRoVe",
+    "slug": 33,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "Aerospace Engineering",
+    "image": "team/members-21-22/aryank-banoth.jpg",
+    "interest": "Aero, Astro-space craft designing, dynamics, CAD and physics engine simulations. Like making music, Badminton",
+    "links": {
+      "email": "aryankbanoth@gmail.com",
+      "fb": "https://m.facebook.com/100008063529515/",
+      "linkedin": "https://www.linkedin.com/in/a-b-28b21021b"
+    },
+    "name": "Aryank Banoth",
+    "phone": "8639301386",
+    "position": "Jr. Mechatronics Engineer",
+    "rollNumber": "200010013",
+    "subsystem": "Mechatronics",
+    "teamName": "AeRoVe",
+    "slug": 34,
+    "rank": 5,
+    "visible": false
+  },
+  {
+    "department": "Computer Science and Engineering",
+    "image": "team/members-21-22/balasubramanian-poovanan.jpg",
+    "interest": "I'm a ML engineer, robotics and competitive coding enthusiast interested in RL & DL projects.",
+    "links": {
+      "email": "zestyoreo9@gmail.com",
+      "fb": "https://www.facebook.com/profile.php?id=100015812881087",
+      "linkedin": "https://www.linkedin.com/in/balasubramanian-p-991059148/"
+    },
+    "name": "P Balasubramanian",
+    "phone": "8939623615",
+    "position": "Jr. Machine Learning Engineer",
+    "rollNumber": "200050103",
+    "subsystem": "Machine Learning",
+    "teamName": "AeRoVe",
+    "slug": 35,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "Engineering Physics",
+    "image": "team/members-21-22/mahesh-bhupati.jpg",
+    "interest": "I like reading books, technical blogs, playing Basketball, and physics is what i love. ",
+    "links": {
+      "email": "mail2mahesh0537@gmail.com",
+      "fb": "https://www.facebook.com/mahesh.0537",
+      "linkedin": "https://www.linkedin.com/in/mahesh-bhupati-528b2a201"
+    },
+    "name": "Mahesh Bhupati",
+    "phone": "7991137795",
+    "position": "Jr. Machine learning engineer",
+    "rollNumber": "200260027",
+    "subsystem": "ML-CV",
+    "teamName": "AeRoVe",
+    "slug": 36,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "Mechanical Engineering",
+    "image": "team/members-21-22/saad-khan.jpg",
+    "interest": "Robotics, control theory, physics, ML, music and memes :p",
+    "links": {
+      "email": "saadk9917@gmail.com",
+      "fb": "https://www.facebook.com/profile.php?id=100007253296043",
+      "linkedin": "https://www.linkedin.com/in/saad-khan-b086141ba"
+    },
+    "name": "Saad Iftekhar Ahmad",
+    "phone": "9004737554",
+    "position": "Jr. Motion Planning Engineer",
+    "rollNumber": "200100085",
+    "subsystem": "Motion Planning",
+    "teamName": "AeRoVe",
+    "slug": 37,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "Mechanical Engineering",
+    "image": "team/members-21-22/vivek-vardhan-venkata-dhara.jpg",
+    "interest": "Drones and autonomous systems, love music and playing the violin. Cricket and tennis fan!",
+    "links": {
+      "email": "vivdhara@gmail.com",
+      "fb": "https://www.facebook.com/vivek.dhara.712",
+      "linkedin": "www.linkedin.com/in/vivek-dhara"
+    },
+    "name": "Vivek Vardhan Venkata Dhara",
+    "phone": "9177360771",
+    "position": "Jr. Localization Engineer",
+    "rollNumber": "200100171",
+    "subsystem": "Localization",
+    "teamName": "AeRoVe",
+    "slug": 38,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "Chemical Engineering",
+    "image": "team/members-21-22/anuj-bhawsar.jpg",
+    "interest": "AI & CV Enthusiast. TT Player. Bibliophile. Love Music and Anime more than people.",
+    "links": {
+      "email": "bhawsar07anuj@gmail.com",
+      "fb": "https://www.facebook.com/snoozebhawsar/",
+      "linkedin": "http://linkedin.com/in/anuj-bhawsar-93a609201"
+    },
+    "name": "Anuj Bhawsar",
+    "phone": "6260186546",
+    "position": "Jr. Localisation Engineer",
+    "rollNumber": "200020029",
+    "subsystem": "Localisation",
+    "teamName": "AeRoVe",
+    "slug": 39,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "Electrical Engineering",
+    "image": "team/members-21-22/siddhant-midha.jpg",
+    "interest": "I am and will always continue to be fascinated by math, music, physics and tech :D",
+    "links": {
+      "email": "midhasid52@gmail.com",
+      "fb": "https://www.facebook.com/profile.php?id=100071872219900",
+      "linkedin": "https://www.linkedin.com/in/siddhant-midha-33878820a"
+    },
+    "name": "Siddhant Midha",
+    "phone": "9829627446",
+    "position": "Jr. Machine Learning Engineer",
+    "rollNumber": "200070078",
+    "subsystem": "Machine Learning",
+    "teamName": "AeRoVe",
+    "slug": 40,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "Electrical Engineering",
+    "image": "team/members-21-22/pulkit-paliwal.jpg",
+    "interest": "Programming, Blockchain Tech, Robotics, Digital Design, Political History, Travelling, Reading",
+    "links": {
+      "email": "20d100021@iitb.ac.in",
+      "fb": "https://www.facebook.com/pulkit.paliwal.33",
+      "linkedin": "https://www.linkedin.com/in/pulkit-p-6a0460134"
+    },
+    "name": "Pulkit Paliwal",
+    "phone": "9644166702",
+    "position": "Jr. Path Planning Engineer",
+    "rollNumber": "20D100021",
+    "subsystem": "Path Planning",
+    "teamName": "AeRoVe",
+    "slug": 41,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "Engineering Physics",
+    "image": "team/members-21-22/shreyas-patil.jpg",
+    "interest": "Autonomous UAVs, Control Systems, Space enthusiast. MCU Fan, love reading books, skateboarding.",
+    "links": {
+      "email": "shreyasp958@gmail.com",
+      "fb": "https://www.facebook.com/Shreyas65",
+      "linkedin": "https://www.linkedin.com/in/shreyas-patil-124433221"
+    },
+    "name": "Shreyas Patil",
+    "phone": "7975031851",
+    "position": "Jr. Controls Engineer",
+    "rollNumber": "200260052",
+    "subsystem": "Controls",
+    "teamName": "AeRoVe",
+    "slug": 42,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "Mechanical Engineering",
+    "image": "team/members-21-22/manav-doshi.jpeg",
+    "interest": "I'm a big football fan, avid video gamer, and huge coding geek.",
+    "links": {
+      "email": "doshimanav@gmail.com",
+      "fb": "https://www.facebook.com/profile.php?id=100005877496754",
+      "linkedin": "https://www.linkedin.com/in/manav-doshi-871b091b8/"
+    },
+    "name": "Manav Doshi",
+    "phone": "7506807326",
+    "position": "Jr. Machine Learning Engineer",
+    "rollNumber": "200100094",
+    "subsystem": "Machine Learning/Computer Vision",
+    "teamName": "AeRoVe",
+    "slug": 43,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "Energy Science Engineering",
+    "image": "team/members-21-22/rohit-zoting.jpeg",
+    "interest": "Drone designing and control systems, Aeromodelling. loves to play and watch badminton, Cricket. Music is <3.",
+    "links": {
+      "email": "rzoting28@gmail.com",
+      "fb": "https://www.facebook.com/profile.php?id=100012100603429",
+      "linkedin": "www.linkedin.com/in/rohit-zoting-588520214"
+    },
+    "name": "Rohit Zoting",
+    "phone": "9764253334",
+    "position": "Jr. Mechatronics engineer",
+    "rollNumber": "20d180027",
+    "subsystem": "Mechatronics",
+    "teamName": "AeRoVe",
+    "slug": 44,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "Electrical Engineering",
+    "image": "team/members-21-22/vedang-gupta.jpg",
+    "interest": "I like Automation, AI, Mathematics, Computer Science, EE, Physics, Music, Reading, Gaming",
+    "links": {
+      "email": "200100166@iitb.ac.in",
+      "fb": "",
+      "linkedin": ""
+    },
+    "name": "Vedang Gupta",
+    "phone": "9082071623",
+    "position": "Jr. Path Planning Engineer",
+    "rollNumber": "200100166",
+    "subsystem": "Path Planning",
+    "teamName": "AeRoVe",
+    "slug": 45,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "Electrical Engineering",
+    "image": "team/members-21-22/asif-shaikh.jpg",
+    "interest": "Love ML, Computer Vision, NLP. Play Badminton. Potterhead.",
+    "links": {
+      "email": "asifshaikhhere@gmail.com",
+      "fb": "https://www.facebook.com/profile.php?id=100027424328522",
+      "linkedin": "https://www.linkedin.com/in/asif-shaikh-251ba81bb/"
+    },
+    "name": "Asif Shaikh",
+    "phone": "9370139853",
+    "position": "Jr. Computer Vision Engineer",
+    "rollNumber": "20D070017",
+    "subsystem": "Computer Vision",
+    "teamName": "SeDriCa",
+    "slug": 46,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "Electrical Engineering",
+    "image": "team/members-21-22/devank-rajvanshi.jpg",
+    "interest": "making cool engineer shit. huge Iron Man fan <3",
+    "links": {
+      "email": "devankrajvanshi08@gmail.com",
+      "fb": "https://www.facebook.com/devankrajvanshi/",
+      "linkedin": "https://www.linkedin.com/in/devank-rajvanshi-569711172/"
+    },
+    "name": "Devank Rajvanshi",
+    "phone": "8384853791",
+    "position": "Junior System Integration Engineer",
+    "rollNumber": "18D100009",
+    "subsystem": "Systems Integration",
+    "teamName": "SeDriCa",
+    "slug": 47,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "Energy Science and Engineering",
+    "image": "team/members-21-22/aadya-pipersenia.jpeg",
+    "interest": "Deeply interested in robotics, mathematics, applications of machine learning & energy systems.",
+    "links": {
+      "email": "20d170002@iitb.ac.in",
+      "fb": "https://www.facebook.com/aadya.pipersenia.1",
+      "linkedin": "https://www.linkedin.com/in/aadya-pipersenia-b52742206"
+    },
+    "name": "Aadya Pipersenia",
+    "phone": "7073994440",
+    "position": "Jr. Motion Planning Engineer",
+    "rollNumber": "20D170002",
+    "subsystem": "Motion Planning",
+    "teamName": "SeDriCa",
+    "slug": 48,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "Engineering Physics",
+    "image": "team/members-21-22/abhishek-kumar-soni.jpg",
+    "interest": "I am a wallflower,I like Movies,novels,logic building,Love to play guitar, Badminton,Sleep :)",
+    "links": {
+      "email": "abhisheksoni@iitb.ac.in",
+      "fb": "https://www.facebook.com/profile.php?id=100007979682953",
+      "linkedin": "https://www.linkedin.com/in/abhishek-soni-2294a81a6/"
+    },
+    "name": "Abhishek kumar soni",
+    "phone": "6264428092",
+    "position": "Jr. Decision Making Engineer",
+    "rollNumber": "190260002",
+    "subsystem": "Decision making",
+    "teamName": "SeDriCa",
+    "slug": 49,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "Metallurgical Engineering",
+    "image": "team/members-21-22/pratham-shah.jpg",
+    "interest": "Autonomous vehicles & Robotics. Love to Dance, Play Cricket, Marvel Fanatic, A foodie!",
+    "links": {
+      "email": "pshah8488@gmail.com",
+      "fb": "https://www.facebook.com/pratham.shah.3910",
+      "linkedin": "https://www.linkedin.com/in/thisisps"
+    },
+    "name": "Pratham Shah",
+    "phone": "9136551512",
+    "position": "Jr. Localization Engineer",
+    "rollNumber": "200110102",
+    "subsystem": "Localization",
+    "teamName": "SeDriCa",
+    "slug": 50,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "Computer Science and Engineering",
+    "image": "team/members-21-22/shrey-modi.jpeg",
+    "interest": "Exploring different fields in CS,Cycling,video games, roaming around and exploring my city:)",
+    "links": {
+      "email": "shreycricket10@gmail.com",
+      "fb": "",
+      "linkedin": "https://www.linkedin.com/in/shrey-modi-b059941bb"
+    },
+    "name": "Shrey Modi",
+    "phone": "9769045385",
+    "position": "Jr. Computer Vision Engineer",
+    "rollNumber": "200020135",
+    "subsystem": "Computer Vision",
+    "teamName": "SeDriCa",
+    "slug": 51,
+    "rank": 5,
+    "visible": true
+  },
+  {
+    "department": "Aerospace Engineering",
+    "image": "team/members-21-22/hanan-basheer.jpg",
+    "interest": "Die-hard coding enthusiast. I play almost every sport but excel in Football 😉. Valorant is my favourite online game. I am up challenges all the time. Currently attempting to crack the Reimann Integral (One of the millennium problems).",
+    "links": {
+      "email": "20b030018@iitb.ac.in",
+      "fb": "",
+      "linkedin": "https://www.linkedin.com/in/hanan-basheer-936b62200"
+    },
+    "name": "Hanan Basheer",
+    "phone": "9867920100",
+    "position": "Jr. Controls Engineer",
+    "rollNumber": "20b030018",
+    "subsystem": "Controls",
+    "teamName": "SeDriCa",
+    "slug": 52,
+    "rank": 5,
+    "visible": true
+  }
+]

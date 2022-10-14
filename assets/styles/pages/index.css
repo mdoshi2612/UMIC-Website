@@ -1,0 +1,136 @@
+.main {
+  position: relative;
+  margin-bottom: 4em;
+}
+
+/* About section */
+
+.about {
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+
+.about .text {
+  width: 90%;
+  font-family: var(--para-font-secondary);
+  margin: 0 auto;
+  padding: 5em 0 2.5em;
+}
+
+.about .text p {
+  margin: 0.75em 0;
+}
+
+/* For youtube video */
+
+.orientation {
+  position: relative;
+  padding: 3em 0;
+}
+
+.orientation iframe {
+  width: 80%;
+  height: 40vh;
+  margin: 0 10%;
+  border-radius: var(--border-radius-8);
+}
+
+/* Announcements starts  */
+.announcement {
+  position: relative;
+  width: 85%;
+  padding: 2em 0;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.announcement .col {
+  width: 100%;
+  padding: 1.5em 0;
+  text-align: center;
+}
+
+.announcement .line {
+  width: 0;
+  opacity: 0.5;
+  border-left: var(--border-size-1) solid var(--clr-border-primary);
+  border-radius: var(--border-radius-8);
+}
+
+.announcement .horizontal {
+  width: 80%;
+  opacity: 0.8;
+  border-top: var(--border-size-1) solid var(--clr-border-primary);
+  border-radius: var(--border-radius-8);
+  margin: auto;
+}
+
+.announcement .cards-container {
+  padding: 1em 0;
+}
+
+.no-cards {
+  width: 100%;
+  text-align: center;
+  font-size: var(--font-size-24);
+  padding: 3em;
+}
+
+/* SPONSORS */
+.sponsors {
+  position: relative;
+  width: 90%;
+  margin: 0 auto;
+  height: auto;
+  padding-bottom: 2em;
+}
+
+.sponsors .text {
+  text-align: center;
+  width: 100%;
+  padding: 2em 0;
+}
+
+.sponsors .text h2 {
+  color: var(--clr-head-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.sponsors .text p {
+  color: var(--clr-font-quaternary);
+  margin-top: 0.5em;
+  letter-spacing: 0.08em;
+}
+
+.sponsors .image1 img {
+  width: 90%;
+  margin: 0 5%;
+}
+
+@media only screen and (min-width: 48em) {
+  .about .text {
+    width: 60%;
+  }
+
+  .orientation iframe {
+    width: 50%;
+    height: 65vh;
+    margin: 0 25%;
+  }
+
+  .announcement {
+    flex-direction: row;
+  }
+
+  .sponsors {
+    width: 100%;
+  }
+
+  .sponsors .image1 img {
+    width: 60%;
+    margin: 0 20%;
+  }
+}

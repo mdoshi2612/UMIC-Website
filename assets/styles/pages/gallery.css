@@ -1,0 +1,18 @@
+.gallery-container {
+  width: 70%;
+  margin: auto;
+  padding-bottom: 2em;
+}
+
+.page-heading {
+  width: 100%;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 2.5em auto 0.75em;
+}
+
+@media only screen and (min-width: 48em) {
+  .page-heading {
+    margin: 1em auto;
+  }
+}

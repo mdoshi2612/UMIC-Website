@@ -1,0 +1,28 @@
+.card-page-wrapper {
+  width: 100%;
+  border-radius: var(--border-radius-8);
+  transition: all 0.3s ease-in-out;
+  background-color: var(--clr-bg-secondary);
+  position: relative;
+}
+
+.cross-button {
+  font-size: var(--icon-size);
+  color: var(--clr-bg-primary);
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 1em;
+  cursor: pointer;
+}
+
+.nuxt-content-wrapper {
+  width: 80%;
+  margin: 0 auto;
+  padding: 2em 0;
+  color: var(--clr-font-secondary);
+}
+
+.nuxt-content-wrapper :is(h1, h2, h3, h4, h5, h6) {
+  color: var(--clr-head-tertiary);
+}

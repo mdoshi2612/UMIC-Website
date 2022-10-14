@@ -1,0 +1,15 @@
+.nuxt-main-container {
+  width: 86vw;
+}
+
+@media only screen and (min-width: 48em) {
+  .nuxt-main-container {
+    width: 91vw;
+  }
+}
+
+@media only screen and (min-width: 80em) {
+  .nuxt-main-container {
+    width: 96vw;
+  }
+}

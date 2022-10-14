@@ -1,0 +1,11 @@
+.logo {
+  width: 100%;
+  min-width: max(20vw, 20vh);
+}
+
+.logo-wrapper {
+  position: absolute;
+  top: 0;
+  padding: 2em;
+  width: 25%;
+}

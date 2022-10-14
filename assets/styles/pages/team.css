@@ -1,0 +1,30 @@
+.main {
+  position: relative;
+  padding-bottom: 4em;
+}
+
+.team-wrapper {
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+
+.team-wrapper .header .team .content {
+  width: 100%;
+  padding-top: 8em;
+}
+
+.team-wrapper .header .team .content h1 {
+  text-align: center;
+}
+
+.team-wrapper .header .team .content .image {
+  width: 100%;
+  margin-top: 1.5em;
+}
+
+.team-wrapper .header .team .content .image img {
+  width: 85%;
+  margin-left: 7.5%;
+  border: var(--border-size-2) solid var(--clr-head-primary);
+}

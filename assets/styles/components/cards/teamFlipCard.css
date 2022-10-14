@@ -1,0 +1,131 @@
+.back,
+.front {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding: 1em 0;
+  border-radius: var(--border-radius-16);
+  backface-visibility: hidden;
+  background-color: var(--clr-bg-secondary);
+  color: var(--clr-font-secondary);
+  transition: transform 0.6s ease-in-out;
+}
+
+.back {
+  position: absolute;
+  top: 0;
+  transform: rotateY(180deg);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-areas:
+    'box1 box2'
+    'box3 box3'
+    'box4 box4';
+}
+
+.back .back-container {
+  display: grid;
+  place-content: center;
+  color: var(--clr-font-secondary);
+  font-size: calc(1.5 * var(--icon-size));
+  transition: color 0.2s ease-in-out;
+}
+
+.back .back-container:hover {
+  color: var(--hover-color);
+}
+
+.back .back-container.envelope {
+  grid-area: box1;
+}
+
+.back .back-container.facebook {
+  grid-area: box2;
+}
+
+.back .back-container.linkedin {
+  grid-area: box3;
+}
+
+.back .back-hidden {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.back .back-hidden:hover {
+  color: inherit;
+}
+
+.back .back-content {
+  padding: 0 0.2em;
+  grid-area: box4;
+}
+
+.back h4 {
+  font-size: var(--font-size-16);
+}
+
+.front .line {
+  width: 80%;
+  margin: 0 auto 1em;
+  border-top: var(--clr-border-secondary) solid var(--border-size-1);
+  border-radius: var(--border-radius-8);
+}
+
+.front .image-container {
+  width: 80%;
+  aspect-ratio: 1/1;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  border-radius: var(--border-radius-16);
+}
+
+.front img {
+  width: 100%;
+}
+
+.front h3 {
+  font-size: var(--font-size-20);
+  padding: 0.5em 0;
+}
+
+.front h4 {
+  font-size: var(--font-size-16);
+  margin: 0 auto;
+  margin-bottom: 0.5em;
+  width: 85%;
+}
+
+.team-card-wrapper {
+  width: 80%;
+  height: 100%;
+  margin: auto;
+  text-align: center;
+}
+
+.team-card-container {
+  height: 100%;
+  position: relative;
+  transition: transform 0.6s ease-in-out;
+  transform-style: preserve-3d;
+}
+
+.team-card-container:hover .front {
+  transform: rotateY(180deg);
+}
+
+.team-card-container:hover .back {
+  transform: rotateY(0deg);
+}
+
+@media only screen and (min-width: 48em) {
+  .front .image-container {
+    border-radius: var(--border-radius-32);
+  }
+}

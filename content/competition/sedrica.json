@@ -1,0 +1,20 @@
+[
+  {
+    "slug": 1,
+    "title": "Mahindra RISE Challenge",
+    "description": "After being recognized as the overall winners in IGVC 2017, the team decided to step up the game and started working on an actual car for the Mahindra RISE Challenge. The Challenge envisaged developing a working unit of a ‘driverless car’ for Indian conditions under an intra-city situation on paved roads. As a part of the competition, the team launched India's first successful prototype of a driverless car. The team received a Mahindra E2o model to test its driverless car technology which was given to the top 11 teams out of 259.",
+    "pageLink": "competition/pages/mahindra-rise",
+    "imageLink": "robots/e20-2.jpg",
+    "imageDescription": "",
+    "leftSided": false
+  },
+  {
+    "slug": 2,
+    "title": "Intelligent Ground Vehicle Competition",
+    "description": "IGVC is an annual international robotics competition for teams of undergraduate and graduate students co-sponsored by Association for Unmanned Vehicle Systems International (AUVSI). The competition demands a fully autonomous unmanned ground robotic vehicle capable of negotiating around an outdoor obstacle course under a prescribed time under certain speed constraints, remaining within the lane, negotiating flags, and avoiding the obstacles on the course.",
+    "pageLink": "competition/pages/igvc",
+    "imageLink": "achievements/igvc-25-2.jpg",
+    "imageDescription": "",
+    "leftSided": true
+  }
+]

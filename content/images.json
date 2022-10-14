@@ -1,0 +1,663 @@
+[
+  {
+    "alt": "Aerove Background",
+    "description": "Background for Aerove Header",
+    "slug": 42,
+    "src": "backgrounds/main-aerove.png",
+    "type": "background",
+    "visible": false
+  },
+  {
+    "alt": "ASME Background",
+    "description": "Background for ASME Header",
+    "slug": 1,
+    "src": "backgrounds/main-asme.png",
+    "type": "background",
+    "visible": false
+  },
+  {
+    "alt": "Sedrica Background",
+    "description": "Background for Sedrica Header",
+    "slug": 2,
+    "src": "backgrounds/main-sedrica.png",
+    "type": "background",
+    "visible": false
+  },
+  {
+    "alt": "Aerove Logo (White)",
+    "description": "Aerove logo for dark mode",
+    "slug": 3,
+    "src": "logos/aerove-white.png",
+    "type": "logo",
+    "visible": false
+  },
+  {
+    "alt": "ASME Logo",
+    "description": "ASME logo",
+    "slug": 4,
+    "src": "logos/asme-black.png",
+    "type": "logo",
+    "visible": false
+  },
+  {
+    "alt": "UMIC Globe",
+    "description": "UMIC Globe",
+    "slug": 5,
+    "src": "logos/globe.png",
+    "type": "logo",
+    "visible": false
+  },
+  {
+    "alt": "UMIC Combination Logo (Black)",
+    "description": "UMIC Combination Logo for light background",
+    "slug": 6,
+    "src": "logos/main-black.png",
+    "type": "logo",
+    "visible": false
+  },
+  {
+    "alt": "UMIC Combination Logo (White)",
+    "description": "UMIC Combination Logo for dark background",
+    "slug": 7,
+    "src": "logos/main-white.png",
+    "type": "logo",
+    "visible": false
+  },
+  {
+    "alt": "Sedrica Logo (Black)",
+    "description": "Sedrica Logo for light background",
+    "slug": 8,
+    "src": "logos/sedrica-black.png",
+    "type": "logo",
+    "visible": false
+  },
+  {
+    "alt": "Sedrica Logo (White)",
+    "description": "Sedrica Logo for dark background",
+    "slug": 9,
+    "src": "logos/sedrica-white.png",
+    "type": "logo",
+    "visible": false
+  },
+  {
+    "alt": "UMIC Sponsors",
+    "description": "List of all UMIC sponsors",
+    "slug": 10,
+    "src": "misc/sponsors.png",
+    "type": "misc",
+    "visible": false
+  },
+  {
+    "alt": "Backpack Rover",
+    "description": "Backpack Rover",
+    "slug": 11,
+    "src": "projects/backpack-rover.png",
+    "type": "project",
+    "visible": false
+  },
+  {
+    "alt": "Electric All Terrain Vehicle",
+    "description": "Electric All Terrain Vehicle",
+    "slug": 12,
+    "src": "projects/eatv.png",
+    "type": "project",
+    "visible": false
+  },
+  {
+    "alt": "Self Balancing Arm",
+    "description": "Self balancing arm",
+    "slug": 13,
+    "src": "projects/self-balancing-arm.png",
+    "type": "project",
+    "visible": false
+  },
+  {
+    "alt": "Indoor Navigation Robot",
+    "description": "Indoor Navigation Robot",
+    "slug": 14,
+    "src": "projects/indoor-navigation-robot.png",
+    "type": "project",
+    "visible": false
+  },
+  {
+    "alt": "Caligraphy Robot",
+    "description": "Calligraphy Robot",
+    "slug": 15,
+    "src": "projects/calligraphy-robot.png",
+    "type": "project",
+    "visible": false
+  },
+  {
+    "alt": "Kinect based Obstacle Avoider Robot",
+    "description": "Kinect based Obstacle Avoider Robot",
+    "slug": 16,
+    "src": "projects/kinect-boa-robot.jpg",
+    "type": "project",
+    "visible": false
+  },
+  {
+    "alt": "Snake Bot",
+    "description": "Snake Bot",
+    "slug": 17,
+    "src": "projects/snake-bot.png",
+    "type": "project",
+    "visible": false
+  },
+  {
+    "alt": "Solar Powered Unmanned Aerial Vehicle",
+    "description": "Solar Powered Unmanned Aerial Vehicle",
+    "slug": 18,
+    "src": "projects/solar-uav.png",
+    "type": "project",
+    "visible": false
+  },
+  {
+    "alt": "Universal Gripper",
+    "description": "Universal Gripper",
+    "slug": 19,
+    "src": "projects/universal-gripper.png",
+    "type": "project",
+    "visible": false
+  },
+  {
+    "alt": "Interfacing Touch Screen with FGPA",
+    "description": "Interfacing touch screen made with FPGA",
+    "slug": 20,
+    "src": "projects/fpga-touch-screen.jpg",
+    "type": "project",
+    "visible": false
+  },
+  {
+    "alt": "Keyless Door with Home Automation",
+    "description": "Keyless Door Lock",
+    "slug": 21,
+    "src": "projects/keyless-door.png",
+    "type": "project",
+    "visible": false
+  },
+  {
+    "alt": "Road Modelling for Autonomous Vehicles",
+    "description": "Cars detected by an Image Processing model",
+    "slug": 22,
+    "src": "projects/road-modelling-ip.png",
+    "type": "project",
+    "visible": false
+  },
+  {
+    "alt": "Trajectory Following Robot",
+    "description": "Working of trajectory following robot",
+    "slug": 23,
+    "src": "projects/trajectory-follow-bot.png",
+    "type": "project",
+    "visible": false
+  },
+  {
+    "alt": "Maze Solver",
+    "description": "Maze Solver",
+    "slug": 24,
+    "src": "projects/maze-solver.jpg",
+    "type": "project",
+    "visible": false
+  },
+
+  {
+    "alt": "Team UMIC, 2017-18",
+    "description": "This one's of the team!",
+    "slug": 25,
+    "src": "team/team-2017-18.jpg",
+    "type": "team",
+    "visible": true
+  },
+  {
+    "alt": "Founding members of team AeRoVe. Major missing: Trishant Roy",
+    "description": "Let's go and fly",
+    "slug": 26,
+    "src": "team/aerove-founding.jpg",
+    "type": "team",
+    "visible": true
+  },
+  {
+    "alt": "Team UMIC 2016-2017 with SeDriCa",
+    "description": "First Driverless Car Engineers",
+    "slug": 27,
+    "src": "team/team-2016-17.jpg",
+    "type": "team",
+    "visible": true
+  },
+  {
+    "alt": "Senior members of team UMIC, 2017-18",
+    "description": "Come, let's climb together",
+    "slug": 28,
+    "src": "team/team-senior-2017-18.jpg",
+    "type": "team",
+    "visible": true
+  },
+  {
+    "alt": "UMIC Sophies 2017-18",
+    "description": "From students to engineers, we grow up",
+    "slug": 29,
+    "src": "team/umic-sophies-2017-18.jpeg",
+    "type": "team",
+    "visible": true
+  },
+  {
+    "alt": "Farewell treat: The last meet",
+    "description": "smiles b4 the treat",
+    "slug": 30,
+    "src": "team/farewell.jpg",
+    "type": "team",
+    "visible": true
+  },
+  {
+    "alt": "4 generations of UMIC",
+    "description": "ascending each step together",
+    "slug": 31,
+    "src": "team/umic-4-gen.jpg",
+    "type": "team",
+    "visible": true
+  },
+  {
+    "alt": "Informal excursions",
+    "description": "welcome to real world noobies",
+    "slug": 32,
+    "src": "team/excursion.jpg",
+    "type": "team",
+    "visible": true
+  },
+  {
+    "alt": "The team of IGVC 2016 with the first version of SeDriCa",
+    "description": "Venturing with the pack.",
+    "slug": 33,
+    "src": "team/igvc-2016.jpg",
+    "type": "team",
+    "visible": true
+  },
+  {
+    "alt": "Members of the team that participated in IARC-2018",
+    "description": "All set for IARC!",
+    "slug": 34,
+    "src": "team/iarc-2018.jpg",
+    "type": "team",
+    "visible": true
+  },
+
+  {
+    "alt": "The team won the 25th Intelligent Ground Vehicle Competition (IGVC), which is the world's biggest unmanned ground vehicle competition held at Oakland University, Michigan USA.",
+    "description": "Another feather to the hat. A big one, this!",
+    "slug": 35,
+    "src": "achievements/igvc-25-1.jpg",
+    "type": "achievement",
+    "visible": true
+  },
+  {
+    "alt": "The team won the 25th Intelligent Ground Vehicle Competition (IGVC), which is the world's biggest unmanned ground vehicle competition held at Oakland University, Michigan USA.",
+    "description": "Where winning is a habit",
+    "slug": 36,
+    "src": "achievements/igvc-25-2.jpg",
+    "type": "achievement",
+    "visible": true
+  },
+  {
+    "alt": "The team that participated in IGVC 2014 with their vehicle Pushpak-3",
+    "description": "Just hanging out with a bunch of cool people. What about you?",
+    "slug": 37,
+    "src": "achievements/igvc-2014.png",
+    "type": "achievement",
+    "visible": true
+  },
+  {
+    "alt": "ASME-SDC 2013, Malaysia",
+    "description": "The team secured 2nd position Worldwide in the Finals of the ASME-SDC 2013 in Malaysia",
+    "slug": 38,
+    "src": "achievements/sdc-2013.png",
+    "type": "achievement",
+    "visible": true
+  },
+  {
+    "alt": "Techfest International Robowars, 2015-16",
+    "description": "The team secured 2nd Position in the International Robowars held at Techfest 2015-16",
+    "slug": 39,
+    "src": "achievements/techfest-2015-16.jpg",
+    "type": "achievement",
+    "visible": true
+  },
+  {
+    "alt": "The winning run of Team Sedrica at IGVC 2017, held at Oakland University in Michigan, USA. The team stood first in the Autonomous Navigation Challenge.",
+    "description": "Where history was made",
+    "slug": 40,
+    "src": "achievements/team-run-igvc-2017.jpg",
+    "type": "achievement",
+    "visible": true
+  },
+  {
+    "alt": "Team Sedrica receiving the Mahindra E2O car for further development and testing as we stood among the top 11 finalists in the Mahindra RISE driverless car challenge.",
+    "description": "We're in the big leagues now",
+    "slug": 41,
+    "src": "achievements/rise-car.jpg",
+    "type": "achievement",
+    "visible": true
+  },
+  {
+    "alt": "The team won the Asia Pacific regionals of Student Design Competition (SDC) in 2017 organized by American Society of Mechanical Engineering (ASME) beating all other teams of the Asia Pacific region.",
+    "description": "We are from IIT Bombay and we have killer instincts.",
+    "slug": 43,
+    "src": "achievements/sdc-2017-1.jpg",
+    "type": "achievement",
+    "visible": true
+  },
+  {
+    "alt": "ASME-SDC 2012, Houston",
+    "description": "The team stood 2nd in the World Finals of the ASME-SDC held in 2012 at Houston, USA for the Energy relay problem.",
+    "slug": 44,
+    "src": "achievements/sdc-2012.jpg",
+    "type": "achievement",
+    "visible": true
+  },
+  {
+    "alt": "The place where history was created by UMIC in 2017. This is the stage for the ASME-SDC World Finals at Tampa Convention Center Florida.",
+    "description": "The place where dreamers became achievers.",
+    "slug": 45,
+    "src": "achievements/sdc-2017-2.jpg",
+    "type": "achievement",
+    "visible": true
+  },
+  {
+    "alt": "The team won the Student Design Competition - World Finals Pentathlon organised by ASME's International Mechanical Engineering Congress and Exposition that was held in Tampa, Florida, USA on 5th November 2017.",
+    "description": "ASME-SDC 2017, Tampa, Florida",
+    "slug": 46,
+    "src": "achievements/sdc-2017-3.jpg",
+    "type": "achievement",
+    "visible": true
+  },
+  {
+    "alt": "The team won the Asia Pacific regionals of Student Design Competition (SDC) in 2019 organized by American Society of Mechanical Engineering (ASME) beating all teams across the Asia Pacific region.",
+    "description": "ASME-SDC 2019, VIT Vellore",
+    "slug": 47,
+    "src": "achievements/sdc-2019.jpg",
+    "type": "achievement",
+    "visible": true
+  },
+  {
+    "alt": "The freshmen team that participated in the ASME- Student Design Competition 2019 along with their bot 'DEEPU'",
+    "description": "Too much, too soon? Well that won't stop us, would it now!",
+    "slug": 48,
+    "src": "achievements/asme-2019-1.jpg",
+    "type": "achievement",
+    "visible": true
+  },
+  {
+    "alt": "Holding the Victory Cup for securing the 1st Position in ASME-SDC Asia Pacifics-2019",
+    "description": "Winner Winner Chicken Dinner!",
+    "slug": 49,
+    "src": "achievements/asme-2019-2.jpg",
+    "type": "achievement",
+    "visible": true
+  },
+  {
+    "alt": "Deepu: The one where we won",
+    "description": "Deepu: the Millenial winner",
+    "slug": 50,
+    "src": "achievements/deepu.jpg",
+    "type": "achievement",
+    "visible": true
+  },
+
+  {
+    "alt": "The calligraphy bot, a device capable of accepting inputs from a computer and writing the specified characters using the exact positioning of the inputs.",
+    "description": "When Technology meets Art!",
+    "slug": 51,
+    "src": "robots/calligraphy.jpg",
+    "type": "robot",
+    "visible": true
+  },
+  {
+    "alt": "Team UMIC's entree to the ASME-SDC 2012, better known as the 'Energy Relay', led the team to victory in the Asia Pacific round",
+    "description": "Less Energy? No Problem!",
+    "slug": 52,
+    "src": "robots/sdc-2012.jpg",
+    "type": "robot",
+    "visible": true
+  },
+  {
+    "alt": "'Remote Inspection Vehicle', the bot that helped us bag 2nd position in the World finals of ASME-SDC 2013 held at USA",
+    "description": "'Remote Inspection Vehicle'",
+    "slug": 53,
+    "src": "robots/remote-inspection-vehicle.jpg",
+    "type": "robot",
+    "visible": true
+  },
+  {
+    "alt": "The Electric All Terrain Vehicle (EATV): the prototype was designed to demonstrate its usefulness for supplying food packages and other aides to affected areas while also carrying heavy payloads for the army.",
+    "description": "We also make EATVs",
+    "slug": 54,
+    "src": "robots/eatv-1.jpg",
+    "type": "robot",
+    "visible": true
+  },
+  {
+    "alt": "BEAST: A bot with pnuematic flippers which participated in International Robowars - Techfest 2015 -16 and stood as the First Runner Up.",
+    "description": "BEAST!",
+    "slug": 55,
+    "src": "robots/beast.jpg",
+    "type": "robot",
+    "visible": true
+  },
+  {
+    "alt": "Backpack Rover: A remotely operated vehicle designed  specifically for military purposes. A soldier can carry it in his backpack and deploy it to access locations that cannot be visually accessed, and thus avoid unnecessary enemy contact.",
+    "description": "You can carry me in your Backpack!",
+    "slug": 56,
+    "src": "robots/backpack-rover.webp",
+    "type": "robot",
+    "visible": true
+  },
+  {
+    "alt": "The bot that led the team to victory in ASME-SDC 2017 Asia Pacific round",
+    "description": "The true champion",
+    "slug": 57,
+    "src": "robots/sdc-2017-1.jpg",
+    "type": "robot",
+    "visible": true
+  },
+  {
+    "alt": "Pushpak 2 - UMIC's entree to the IGVC 2013",
+    "description": "Are you an obstacle? I'm good at avoiding you.",
+    "slug": 58,
+    "src": "robots/pushpak-2-1.jpg",
+    "type": "robot",
+    "visible": true
+  },
+  {
+    "alt": "Pushpak 2 - UMIC's entree to the IGVC 2013",
+    "description": "My lanes, my rules!",
+    "slug": 59,
+    "src": "robots/pushpak-2-2.jpg",
+    "type": "robot",
+    "visible": true
+  },
+  {
+    "alt": "The first sensor array of Mahindra E2O",
+    "description": "No, no, no, I can drive myself.",
+    "slug": 60,
+    "src": "robots/e20-1.jpg",
+    "type": "robot",
+    "visible": true
+  },
+  {
+    "alt": "Fully equipped autonomous car- SeDriCa (Right)",
+    "description": "Find someone which can give looks like me",
+    "slug": 61,
+    "src": "robots/e20-2.jpg",
+    "type": "robot",
+    "visible": true
+  },
+  {
+    "alt": "Fully equipped autonomous car- SeDriCa (Left)",
+    "description": "NFS: Driverless Car Unlocked",
+    "slug": 62,
+    "src": "robots/e20-3.jpg",
+    "type": "robot",
+    "visible": true
+  },
+  {
+    "alt": "DEEPU: The bot that led the team to victory in the Asia Pacific round of ASME-Student Design Challenge; Notice the unconventional use of mecanum wheels which allowed the bot to move freely in the arena.",
+    "description": "Yeah, all set, now its show time baby!",
+    "slug": 63,
+    "src": "robots/deepu-1.jpg",
+    "type": "robot",
+    "visible": true
+  },
+  {
+    "alt": "DEEPU: The bot that led the team to victory in the Asia Pacific round of ASME-Student Design Challenge; Notice the storage space for balls as well as the deployable walls for precisely dropping them.",
+    "description": "What are you waiting for? Let's go and win!",
+    "slug": 64,
+    "src": "robots/deepu-2.jpg",
+    "type": "robot",
+    "visible": true
+  },
+  {
+    "alt": "Jataayu V1: The first complete full size protoype developed by team Aerove for the Barcelona Smart Drone Challenge",
+    "description": "Ready for a ride?",
+    "slug": 65,
+    "src": "robots/jatayu-1.jpg",
+    "type": "robot",
+    "visible": true
+  },
+  {
+    "alt": "The first heavy duty trainer plane developed by team Aerove for testing the parachute deployment mechanism for the Barcelona Smart Drone Challenge",
+    "description": "And, here we go...",
+    "slug": 66,
+    "src": "robots/parachute-test-1.jpg",
+    "type": "robot",
+    "visible": true
+  },
+  {
+    "alt": "Autonomous landing of the heavy duty plane with 2m wingspan developed by team Aerove for the Barcelona Smart Drone Challenge",
+    "description": "Lets get high up in the clouds.",
+    "slug": 67,
+    "src": "robots/parachute-test-2.jpg",
+    "type": "robot",
+    "visible": true
+  },
+  {
+    "alt": "Capable of autonomous indoor navigation and having a payload capacity of 2.4 kgs, team UMIC Aerial proposed this design for the Flipkart Grid 2.0 Autonomous Indoor Drone Robotics Challenge",
+    "description": "Lets deliver some Parcels",
+    "slug": 68,
+    "src": "robots/flipkart.jpg",
+    "type": "robot",
+    "visible": true
+  },
+  {
+    "alt": "The Electric All Terrain Vehicle (EATV): the prototype was designed to demonstrate its usefulness for supplying food packages and other aides to affected areas while also carrying heavy payloads for the army.",
+    "description": "We also make EATVs",
+    "slug": 69,
+    "src": "robots/eatv-2.jpg",
+    "type": "robot",
+    "visible": true
+  },
+
+  {
+    "alt": "First look of Mahindra E2O (thec then to be SeDriCa)",
+    "description": "New mission available. Let's do this!",
+    "slug": 70,
+    "src": "misc/e20.jpg",
+    "type": "misc",
+    "visible": true
+  },
+  {
+    "alt": "Sucessfully simulating the problem statement of Flipkart Grid 2.0 autonomous indoor challenge on Gazebo Simulator using PX4 - SITL.",
+    "description": "The Blood Sweat and Tears behind this success are invisible to most.",
+    "slug": 71,
+    "src": "misc/px4-stl.png",
+    "type": "misc",
+    "visible": true
+  },
+  {
+    "alt": "Quadcopter localizing itself with respect to the surroundings using visual odometry",
+    "description": "GPS? Who needs that!",
+    "slug": 72,
+    "src": "misc/quadcopter.png",
+    "type": "misc",
+    "visible": true
+  },
+  {
+    "alt": "Simulating autonomous navigation of a ground robot in a factory environment",
+    "description": "StartUp Idea?",
+    "slug": 73,
+    "src": "misc/auto-ground-robot.png",
+    "type": "misc",
+    "visible": true
+  },
+  {
+    "alt": "SeDriCa presented before Hon. Prime minister of India Shri. Narendra Modi",
+    "description": "Make way for the upcoming self-driving car, by Sedrica.",
+    "slug": 74,
+    "src": "misc/sedrica-modi.jpg",
+    "type": "misc",
+    "visible": true
+  },
+  {
+    "alt": "BackPackRover a project with NCETIS for DST and Indian Military, presented at 17th International Security Expo 2016 in Pragati maidan, New Delhi",
+    "description": "Because innovation is life.",
+    "slug": 75,
+    "src": "misc/security-expo-2016.jpg",
+    "type": "misc",
+    "visible": true
+  },
+  {
+    "alt": "Explaining visiting school students SeDriCa project",
+    "description": "Hey enthusiasts! See what we've got!",
+    "slug": 76,
+    "src": "misc/schools.jpg",
+    "type": "misc",
+    "visible": true
+  },
+  {
+    "alt": "Members of the team displaying our work in the mess area of Hostel 15 & 16 to spark the fire of curiosity and innovation in the minds of the freshmen",
+    "description": "Finding Diamonds in the coalmine.",
+    "slug": 77,
+    "src": "misc/mess-15-16.jpg",
+    "type": "misc",
+    "visible": true
+  },
+  {
+    "alt": "UMIC Recruitment test 2019",
+    "description": "It's that time of the year again. Recruitments of course.",
+    "slug": 78,
+    "src": "misc/test-2019.jpg",
+    "type": "misc",
+    "visible": true
+  },
+  {
+    "alt": "Showcasing the autonomous quadcopter project of AeRoVe at IIT Bombay's Tech & RnD Exposition 2019",
+    "description": "No, Guns can not be attached on this one.",
+    "slug": 79,
+    "src": "misc/tech-expo-2019.jpg",
+    "type": "misc",
+    "visible": true
+  },
+  {
+    "alt": "Accurate real-time Object Detection from autonomous drone",
+    "description": "You've been detected! Good luck running, I'll track you anyway.",
+    "slug": 80,
+    "src": "misc/object-track.jpg",
+    "type": "misc",
+    "visible": true
+  },
+  {
+    "alt": "Character Detection on autonomous Drone",
+    "description": "Let me read it for you.",
+    "slug": 81,
+    "src": "misc/character-detection.png",
+    "type": "misc",
+    "visible": true
+  },
+
+  {
+    "alt": "Autonomous Ball picking Robot",
+    "description": "Lets get some balls!!",
+    "slug": 82,
+    "src": "robots/ball-picker.jpg",
+    "type": "robot",
+    "visible": true
+  }
+]

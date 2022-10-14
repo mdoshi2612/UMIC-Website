@@ -1,0 +1,29 @@
+[
+  {
+    "slug": 1,
+    "title": "Techfest International Robowars 2017",
+    "description": "We participated in the 120lbs(55 kg) category for this competition. This particular bot was built with robustness as our prime focus. This fact is reflected in the custom-designed hybrid aluminium and mild steel chassis which was made to balance the weight and toughness of the bot.",
+    "pageLink": "competition/pages/robowars-2017",
+    "imageLink": "robots/beast.jpg",
+    "imageDescription": "",
+    "leftSided": false
+  },
+  {
+    "slug": 2,
+    "title": "DRDO DRUSE Program 2018",
+    "description": "The aim of DRUSE 2018 was to create a platform for the development of futuristic defence systems. The participants were UG and PG from engineering backgrounds all over India. We participated with two different teams working on two different project ideas.",
+    "pageLink": "competition/pages/drdo-2018",
+    "imageLink": "robots/drdo-2018.png",
+    "imageDescription": "",
+    "leftSided": true
+  },
+  {
+    "slug": 3,
+    "title": "International Robotics Competition",
+    "description": "The task demanded two bots, one remote-controlled and another autonomous with coordination between them. The remote-control bot was expected to carry out the tasks of box picking, holding and placing, climbing on inclined ramps, and shooting a dart at the target while the autonomous bot had to find the path in a line maze avoiding certain nodes, pick up, hold and place boxes and be able to recognize logos and directions using a camera.",
+    "pageLink": "competition/pages/irc",
+    "imageLink": "robots/irc.jpeg",
+    "imageDescription": "",
+    "leftSided": false
+  }
+]

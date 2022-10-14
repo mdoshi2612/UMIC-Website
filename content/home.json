@@ -1,0 +1,29 @@
+[
+  {
+    "logoLink": "logos/sedrica-white.png",
+    "bgLink": "backgrounds/main-sedrica.png",
+    "infoText": "Team Sedrica - Aiming to become India’s beacon into the world of Self Driving Cars which can navigate the tricky and crowded Indian roads",
+    "clickLink": "/",
+    "imgDescription": "Sedrica Logo",
+    "rightSided": false,
+    "slug": 1
+  },
+  {
+    "logoLink": "logos/asme-black.png",
+    "bgLink": "backgrounds/main-asme.png",
+    "infoText": "American Society of Mechanical Engineers - organizes the Student Design Challenge which inspires its participants to innovate and gain knowledge in the field of robotics and control systems",
+    "clickLink": "/",
+    "imgDescription": "ASME Logo",
+    "rightSided": true,
+    "slug": 2
+  },
+  {
+    "logoLink": "logos/aerove-white.png",
+    "bgLink": "backgrounds/main-aerove.png",
+    "infoText": "Team Aerove - Aiming to create the ultimate autonomous system for drones and aircrafts",
+    "clickLink": "/",
+    "imgDescription": "Aerove Logo",
+    "rightSided": false,
+    "slug": 3
+  }
+]

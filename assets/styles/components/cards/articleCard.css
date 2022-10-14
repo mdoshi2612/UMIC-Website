@@ -1,0 +1,33 @@
+.col {
+  width: 15%;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+  padding: 1em;
+}
+
+.container-reverse {
+  direction: rtl;
+}
+
+.content-col {
+  width: 85%;
+  margin: 0 0.5em;
+  text-align: left;
+}
+
+.content-col h4 {
+  margin: 0.2em 0;
+  color: var(--clr-font-quaternary);
+}
+
+.content-col p {
+  margin: 0.5em 0;
+}
+
+.date {
+  color: var(--clr-font-quaternary);
+  text-transform: uppercase;
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "department": "",
+    "image": "team/members-21-22/dhwanil-shukla.jpeg",
+    "links": {
+      "email": "",
+      "fb": "",
+      "linkedin": ""
+    },
+    "name": "Dhwanil Shukla",
+    "position": "Faculty Advisor",
+    "phone": "",
+    "rollNumber": "",
+    "subsystem": "",
+    "teamName": "AeRoVe",
+    "timeOfJoining": "",
+    "yearOfStudy": 0,
+    "slug": 3,
+    "rank": 1,
+    "visible": true
+  },
+  {
+    "department": "",
+    "image": "team/members-21-22/amit-sethi.jpeg",
+    "links": {
+      "email": "",
+      "fb": "",
+      "linkedin": ""
+    },
+    "name": "Amit Sethi",
+    "position": "Faculty Advisor",
+    "phone": "",
+    "rollNumber": "",
+    "subsystem": "",
+    "teamName": "SeDriCa",
+    "timeOfJoining": "",
+    "yearOfStudy": 0,
+    "slug": 3,
+    "rank": 1,
+    "visible": true
+  }
+]
